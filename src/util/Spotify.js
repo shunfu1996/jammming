@@ -1,5 +1,8 @@
+import {clientId as id} from '../../config';
+
 let accessToken;
-const clientId = 'bde93ba9ebfb4d37ad334ddb43208793';
+const clientId = id;
+// const clientId = 'bde93ba9ebfb4d37ad334ddb43208793';
 const redirectUri = "https://shunfu1996.github.io/jammming/";
 
 
